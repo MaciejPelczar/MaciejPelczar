@@ -16,8 +16,18 @@ Aplikacja webowa Blog, pozwala użytkownikom przeglądać wpisy , a także dodaw
 
 ![](https://github.com/MaciejPelczar/blog-django/blob/master/blog.png)
 
-
 [Przejdz do repozytorium!](https://github.com/MaciejPelczar/blog-django)
+
+### Aplikacja okienkowa/gra kółko-krzyżyk
+![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![enter image description here](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)![enter image description here](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+
+Aplikacja okienkowa kołko-krzyżyk, gra storzona przy pomocy biblioteki ***pygame*** daje możliwość prowadzenia rozgrywki z "komputerem" lub dla dwóch graczy!
+
+![enter image description here](https://github.com/MaciejPelczar/tic-tac-toe/blob/main/tictactoe.png)
+
+[Przejdz do repozytorium!](https://github.com/MaciejPelczar/tic-tac-toe)
+
+
 <!--
 **MaciejPelczar/MaciejPelczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
