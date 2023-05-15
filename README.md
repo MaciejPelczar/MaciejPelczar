@@ -7,7 +7,7 @@ Aplikacja pozwala wczytać zdjęcie karty odpowiedzi, dzięki zastosowaniu bibli
 ![enter image description here](https://github.com/MaciejPelczar/test-verify-app/blob/main/answer.png)
 <!--
 **MaciejPelczar/MaciejPelczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[enter link description here](https://github.com/MaciejPelczar/test-verify-app))
+[Przejdz do repozytorium!](https://github.com/MaciejPelczar/test-verify-app))
 
 Here are some ideas to get you started:
 
