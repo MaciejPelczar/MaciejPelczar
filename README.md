@@ -8,6 +8,11 @@ Aplikacja pozwala wczytać zdjęcie karty odpowiedzi, dzięki zastosowaniu bibli
 ![enter image description here](https://github.com/MaciejPelczar/test-verify-app/blob/main/answer.png)
 
 [Przejdz do repozytorium!](https://github.com/MaciejPelczar/test-verify-app)
+
+![](https://github.com/MaciejPelczar/blog-django/blob/master/blog.png)
+
+
+
 <!--
 **MaciejPelczar/MaciejPelczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
