@@ -5,9 +5,10 @@
 
 Aplikacja pozwala wczytać zdjęcie karty odpowiedzi, dzięki zastosowaniu biblioteki ***openCV*** odczytywane jest pole ID Testu, na którego podstawie weryfikuje odpowiedzi użytkownika oraz jego id. Aplikacja umożliwia różneż zapisanie tych informacji do bazy danych. Interface graficzny stworzy przy pomocy biblioteki ***tkinter***. 
 ![enter image description here](https://github.com/MaciejPelczar/test-verify-app/blob/main/answer.png)
+[Przejdz do repozytorium!](https://github.com/MaciejPelczar/test-verify-app))
 <!--
 **MaciejPelczar/MaciejPelczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Przejdz do repozytorium!](https://github.com/MaciejPelczar/test-verify-app))
+
 
 Here are some ideas to get you started:
 
