@@ -1,5 +1,5 @@
 # Hi 👋
-## *I am a computer science student, here you will find some of my applications written mostly in Python, you can read the introduction below*
+## I am a computer science student, here you will find some of my applications written mostly in Python, you can read the introduction below
 ### Answer card checker app
 ![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![enter image description here](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)![enter image description here](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)![enter image description here](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)![enter image description here](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 
