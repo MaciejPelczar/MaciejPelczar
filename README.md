@@ -36,4 +36,10 @@ The web application is designed to help you learn fast, touch typing. The idea t
 
 [Go to the repository!](https://github.com/MaciejPelczar/typing-app)
 
+###Treasure Hunt - android game
 
+A game of chance consisting in drawing the number of finding a treasure. Finding it results in increasing the treasure, using the chance and not finding the treasure, decreasing.
+
+![enter image description here](https://github.com/MaciejPelczar/treasure-hunt/blob/main/screens.png)
+
+[Go to the repository!](https://github.com/MaciejPelczar/treasure-hunt)
